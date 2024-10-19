@@ -1,0 +1,7 @@
+.not_unique{
+    background-color: yellow;
+}
+
+#unique{
+    background-color: red;    /* id is given preference while css */
+}
